@@ -1,0 +1,10 @@
+{
+  "display_name": "BuildProxy · 酒馆分流",
+  "loading_order": 900,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "author": "BuildProxy / qiwu622",
+  "version": "0.1.0",
+  "description": "预设进入 Build 输入框，历史和背景进入聊天附件；仅对 build-st/ 模型启用。"
+}
